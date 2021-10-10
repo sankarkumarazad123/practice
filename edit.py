@@ -1,0 +1,1 @@
+#Welcome to editting and staging in git
